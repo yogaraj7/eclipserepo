@@ -1,2 +1,2 @@
 From master
-from local repo..6
+from local repo..5
