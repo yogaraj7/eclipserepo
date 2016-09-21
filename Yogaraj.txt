@@ -5,4 +5,10 @@ from master second try
 from local repo -- 3
 from master repo -- 3
 from local repo -- 4
+<<<<<<< HEAD
 sdfsdfs
+=======
+master
+123
+>>>>>>> refs/remotes/origin/master
+a
